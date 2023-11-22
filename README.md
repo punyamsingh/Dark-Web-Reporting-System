@@ -41,5 +41,5 @@ Follow these instructions to get the project up and running on your local machin
    git clone https://github.com/yourusername/dark-web-monitoring-system.git
 
 ### Deployed Links on ClearNet
-https://asurdweb.netlify.app/
-https://asur-ams.vercel.app/
+[https://asurdweb.netlify.app/](https://asurdweb.netlify.app/)
+[https://asurdweb.vercel.app/](https://asurdweb.vercel.app/)
